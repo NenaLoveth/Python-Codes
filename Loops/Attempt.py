@@ -1,4 +1,3 @@
-import math
 def fizz_buzz(num1):
     if num1 % 3 == 0 and num1 % 5 == 0:
         print("Number is divisible by 3 and 5")
