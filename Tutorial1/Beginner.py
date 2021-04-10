@@ -5,7 +5,7 @@ print(type("87"))
 print(type(87.00))
 house_number = 14
 street_name = "agwan tofa"
-town_name = "keffi"
+town_name = "keffi nassarawa"
 print(type(house_number))
 address = (str(house_number) + " " + street_name + " " + town_name)
 print(address)
